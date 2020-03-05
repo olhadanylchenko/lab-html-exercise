@@ -70,6 +70,10 @@ nav ul {
   padding-left: 2rem;
 }
 
+.span {
+  position: relative;
+}
+
 .searchLabel {
   position: absolute;
   top: 2.5px;
